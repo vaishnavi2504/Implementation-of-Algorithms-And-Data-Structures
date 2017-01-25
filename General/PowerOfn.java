@@ -1,7 +1,7 @@
 /
  * @author Vaishnavi Bhat
   Date 9/14/2016
-  Calculate Power(x,n) with time complexity O(log n)
+  Calculate Power(x,n) with time complexity O(log n) using DAC method
  *
  */
 public class PowerOfn {
